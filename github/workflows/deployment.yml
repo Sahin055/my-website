@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  build-and-deploy: ## comment
+  build-and-deploy: ## commentd
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Code
